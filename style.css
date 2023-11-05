@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #datos {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+
+
+  /* Estilo para la lista desordenada */
+  ul {
+      list-style: none; /* Elimina los puntos predeterminados */
+      padding: 0;
+  }
+
+  /* Estilo para cada elemento de la lista */
+  li {
+      border: 1px solid #76b6ae; /* Bordes para cada celda */
+      border-radius: 6px;
+      margin: 5px; /* Espaciado entre las celdas */
+      padding: 10px; /* Espaciado interno en cada celda */
+      background-color: rgb(101, 190, 183); /* Color de fondo */
+  }
+
+  /* Estilo para el texto a la izquierda */
+  .texto-izquierda {
+      float: left; /* Flotar a la izquierda */
+      margin-right: 10px; /* Espaciado a la derecha del texto */
+  }
+
+ #resultado {
+  justify-content:center;
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+ }
