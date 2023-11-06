@@ -29,4 +29,6 @@ https://github.com/chulkx/plantitas_demo/assets/35662736/2bf9b120-4934-4069-91f3
 
 ![4](https://github.com/chulkx/plantitas_demo/assets/35662736/d8e24ca8-b5b2-4fdd-ab98-b61450fc47a3)
 
+Enlace a la pagina: https://chulkx.github.io/plantitas_demo/
+
 
